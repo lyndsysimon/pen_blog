@@ -1,0 +1,8 @@
+# cache directories for Pelican
+cache/*
+output/*
+*.pid
+
+# Python
+__pycache__/*
+*.py[cod]
